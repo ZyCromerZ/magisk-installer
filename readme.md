@@ -1,0 +1,1 @@
+based https://topjohnwu.github.io/Magisk/guides.html

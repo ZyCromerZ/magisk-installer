@@ -1,0 +1,2 @@
+#MAGISK
+MODDIR=${0%/*}
